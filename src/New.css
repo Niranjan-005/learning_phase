@@ -1,0 +1,72 @@
+
+input{
+    border-radius: 10px;
+    margin:10px;
+    height:5vh;
+    width:300px;
+    padding-left: 20px;;
+    font-weight: 600;
+    background-color: rgb(44, 44, 44);
+    border: none;
+    color: #f0f8ff;
+}
+a{
+    
+    text-decoration: none;
+    
+}
+button{
+    border:none;
+    margin:10px;
+    border-radius: 10px;
+    background-color: rgb(19, 152, 92);
+    height:5vh;
+    width:325px;
+    font-weight: 600;
+    font-size: large;
+    color: white;   
+}
+button:hover {
+  background-color: #33bd6a;
+}
+
+a {
+  display: inline-block;
+  margin-top: 8px;  
+  
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.acc{
+   margin-top:20px;
+   color:white;
+   text-decoration: underline;
+}
+.box{
+    background-color: rgba(0, 0, 0, 0.632);
+    height:50vh;
+    padding:30px;
+    margin:180px 500px 180px 500px;
+    border-radius: 30px;
+    
+}
+h1{
+    color: white;
+}
+body{
+    background-image:url('./sand.jpg');
+    background-size: cover;
+}
+h2{
+    color: #f0f8ff;
+    text-align: center;
+    margin-bottom:5px;
+}
+
+
+
+
+

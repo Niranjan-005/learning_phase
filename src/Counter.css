@@ -1,0 +1,23 @@
+
+button{
+    padding: 10px;
+    margin:20px;
+    border: none;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+    width:70px;
+}
+.box-white{
+    width:50%;
+    height:40vh;
+    background-color: black;
+}
+.box-dark{
+    width:50%;
+    height:40vh;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: aqua;
+}
