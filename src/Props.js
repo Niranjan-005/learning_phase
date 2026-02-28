@@ -1,12 +1,15 @@
 import React from 'react'
-const Props=({test})=>{
-    console.log(test)
+import './Props.css'
+const Props=({arr})=>{
+    console.log(arr)
     return(
     <>
-    <h1>{test[0]}</h1>
-    <h1>{test[1]}</h1>
-    <h1>{test[2]}</h1>
-    
+    <center>
+    <h1>{arr[0]}</h1>
+    <h1>{arr[1]}</h1>
+    <h1>{arr[2]}</h1>
+    </center>
+
     </>
     )
 
