@@ -7,7 +7,7 @@ function App() {
   return(
   <div>
     <Table/>
-    changes to test github
+    changes to test git
   </div>
   );
 } 
